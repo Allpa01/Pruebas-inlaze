@@ -1,0 +1,5 @@
+selenium
+webdriver-manager
+unittest
+# NOTA: ChromeDriver no se instala con pip. Descárgalo desde:
+# https://sites.google.com/chromium.org/driver/
