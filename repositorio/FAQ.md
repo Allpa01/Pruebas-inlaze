@@ -1,7 +1,7 @@
 # Preguntas Frecuentes (FAQ) - Proyecto Inlaze
 
 ## 1. ¿Qué es este proyecto?
-Este es un framework de pruebas automatizadas para la plataforma Inlaze, desarrollado con **Selenium y Python** en **Visual Studio Code**. Utiliza el modelo **Page Object Model (POM)** para organizar las pruebas de manera eficiente.
+Este es un framework de pruebas automatizadas desarrollado con **Selenium y Python** en **Visual Studio Code**. Utiliza el modelo **Page Object Model (POM)** para organizar las pruebas de manera eficiente.
 
 ## 2. ¿Qué herramientas necesito instalar?
 Antes de ejecutar el proyecto, asegúrate de tener instaladas las siguientes herramientas:
